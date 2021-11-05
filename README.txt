@@ -5,3 +5,5 @@ that help out the understanding of the code and the functions
 
 class25.cpp: Working code where we create a tree and populate it, by
 a given list (pre made)
+
+class25COM.cpp: Working code with the commentery from treespt1.cpp
